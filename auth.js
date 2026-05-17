@@ -1,8 +1,8 @@
 // ==========================================
 // 🔐 LOGIN CREDENTIALS – CHANGE THESE VALUES
 // ==========================================
-const VALID_USERNAME = 'admin';
-const VALID_PASSWORD = 'DataVault2024';
+const VALID_USERNAME = 'zaid';
+const VALID_PASSWORD = 'zaid';
 // ==========================================
 
 function checkAuth() {
