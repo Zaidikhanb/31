@@ -448,6 +448,17 @@ input:focus, select:focus, textarea:focus {
   transform: translateY(-1px);
   }
 
+/* In/Out colors */
+.in-out-green {
+  color: #34d399;
+  font-weight: 600;
+}
+
+.in-out-red {
+  color: #fb7185;
+  font-weight: 600;
+}
+
 /* Keep desktop look on mobile */
 @media (max-width: 640px) {
   .navbar {
