@@ -28,5 +28,15 @@
     "quantity": "4 Piece",
     "personName": "Zaid",
     "color": null
+  },
+  {
+    "id": "mp9embfijlg7v",
+    "timestamp": "2026-05-17T06:38:39.966Z",
+    "inOut": "in",
+    "number": null,
+    "itemType": "roleFussing",
+    "quantity": "4 Piece",
+    "personName": "Zaid",
+    "color": "Grey"
   }
 ]
