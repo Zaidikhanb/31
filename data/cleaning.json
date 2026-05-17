@@ -7,7 +7,7 @@
     "sizeGuzz": "6",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-11T12:01:00.000Z",
     "inOut": "in",
@@ -15,7 +15,7 @@
     "sizeGuzz": "6",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-12T12:00:00.000Z",
     "inOut": "out",
@@ -23,7 +23,7 @@
     "sizeGuzz": "6",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-12T12:01:00.000Z",
     "inOut": "in",
@@ -31,7 +31,7 @@
     "sizeGuzz": "6",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-13T12:00:00.000Z",
     "inOut": "out",
@@ -39,7 +39,7 @@
     "sizeGuzz": "3",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-13T12:01:00.000Z",
     "inOut": "in",
@@ -47,7 +47,7 @@
     "sizeGuzz": "3",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-14T12:00:00.000Z",
     "inOut": "out",
@@ -55,7 +55,7 @@
     "sizeGuzz": "5",
     "personName": "Ahmad"
   },
-    {
+  {
     "id": "mp9ep8ozyuxqb",
     "timestamp": "2026-05-14T12:01:00.000Z",
     "inOut": "in",
@@ -68,6 +68,14 @@
     "timestamp": "2026-05-17T09:41:05.584Z",
     "inOut": "out",
     "number": "",
+    "sizeGuzz": "9",
+    "personName": "Ahmad"
+  },
+  {
+    "id": "mp9p42gifz90a",
+    "timestamp": "2026-05-17T11:32:24.306Z",
+    "inOut": "in",
+    "number": null,
     "sizeGuzz": "9",
     "personName": "Ahmad"
   }
