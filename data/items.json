@@ -80,5 +80,18 @@
     "quantity": "4 Piece",
     "personName": "Zaid",
     "color": "Grey"
+  },
+  {
+    "id": "mp9eoaq5cephk",
+    "timestamp": "2026-05-17T06:40:12.365Z",
+    "inOut": "in",
+    "number": "12",
+    "itemType": "otherItem",
+    "itemName": "New Item",
+    "quantity": "4 Piece",
+    "size": "22",
+    "grade": "3011",
+    "color": "Pink",
+    "personName": "Zahid"
   }
 ]
