@@ -8,5 +8,15 @@
     "quantity": "4 Piece",
     "personName": "Zaid",
     "color": "Grey"
+  },
+  {
+    "id": "mp9elh43315ln",
+    "timestamp": "2026-05-17T06:38:00.675Z",
+    "inOut": "out",
+    "number": "3011",
+    "itemType": "cdSequence",
+    "quantity": "4 Piece",
+    "personName": "Z",
+    "color": null
   }
 ]
