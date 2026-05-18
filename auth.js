@@ -3,8 +3,8 @@
 //  Change these values for each page as you like
 // =====================================================
 const PAGE_CREDENTIALS = {
-  'index.html': { username: 'zaid', password: 'zaid' },      // Data Entry page
-  'view.html':  { username: 'unit', password: 'unit' }       // Data Viewer page
+  'index.html': { username: 'zaid', password: 'zaid@#$123' },      // Data Entry page
+  'view.html':  { username: 'unit', password: 'unit@#$123' }       // Data Viewer page
 };
 // =====================================================
 
