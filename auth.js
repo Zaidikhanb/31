@@ -3,8 +3,8 @@
 //  Change these values for each page as you like
 // =====================================================
 const PAGE_CREDENTIALS = {
-  'index.html': { username: 'zaid', password: 'zaid@#$123' },      // Data Entry page
-  'view.html':  { username: 'unit', password: 'unit@#$123' }       // Data Viewer page
+  'index.html': { username: '1', password: '1' },      // Data Entry page
+  'view.html':  { username: '2', password: '2' }       // Data Viewer page
 };
 // =====================================================
 
@@ -17,20 +17,20 @@ function getCurrentPageKey() {
 }
 
 function checkAuth() {
-  const authenticated = sessionStorage.getItem('datavault_authenticated') === 'true';
-  const authPage = sessionStorage.getItem('datavault_page');
+  const authenticated = localStorage.getItem('datavault_authenticated') === 'true';
+  const authPage = localStorage.getItem('datavault_page');
   const currentPage = getCurrentPageKey();
   return authenticated && authPage === currentPage;
 }
 
 function setAuth() {
-  sessionStorage.setItem('datavault_authenticated', 'true');
-  sessionStorage.setItem('datavault_page', getCurrentPageKey());
+  localStorage.setItem('datavault_authenticated', 'true');
+  localStorage.setItem('datavault_page', getCurrentPageKey());
 }
 
 function clearAuth() {
-  sessionStorage.removeItem('datavault_authenticated');
-  sessionStorage.removeItem('datavault_page');
+  localStorage.removeItem('datavault_authenticated');
+  localStorage.removeItem('datavault_page');
 }
 
 function toggleOverlay() {
