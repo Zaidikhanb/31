@@ -9,7 +9,7 @@
     "personName": "Master",
     "color": null
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-04T12:00:00.000Z",
     "inOut": "in",
@@ -49,7 +49,7 @@
     "personName": "Master",
     "color": ""
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-06T12:00:00.000Z",
     "inOut": "in",
@@ -59,7 +59,7 @@
     "personName": "Unkown",
     "color": "Anmonium"
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-06T12:00:00.000Z",
     "inOut": "in",
@@ -69,7 +69,7 @@
     "personName": "Unkown",
     "color": "peach"
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-11T12:00:00.000Z",
     "inOut": "in",
@@ -79,7 +79,7 @@
     "personName": "Master",
     "color": null
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-11T12:00:00.000Z",
     "inOut": "in",
@@ -89,7 +89,7 @@
     "personName": "Master",
     "color": "skin"
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-13T12:00:00.000Z",
     "inOut": "in",
@@ -99,7 +99,7 @@
     "personName": "Butt Sahib",
     "color": null
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-13T12:00:00.000Z",
     "inOut": "in",
@@ -109,7 +109,7 @@
     "personName": "Butt Sahib",
     "color": null
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-13T21:15:00.000Z",
     "inOut": "in",
@@ -119,7 +119,7 @@
     "personName": "Master Kashif",
     "color": null
   },
-    {
+  {
     "id": "mp9c4chdhk8lj",
     "timestamp": "2026-05-15T12:00:00.000Z",
     "inOut": "in",
@@ -127,6 +127,16 @@
     "itemType": "thread",
     "quantity": "1 Box",
     "personName": "Butt Sahab",
+    "color": null
+  },
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-19T03:15:21.620Z",
+    "inOut": "in",
+    "number": "1080",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
     "color": null
   }
 ]
