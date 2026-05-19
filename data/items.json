@@ -1,0 +1,762 @@
+[
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-03T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "thread",
+    "quantity": "10 Boxes",
+    "personName": "Master",
+    "color": null
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-04T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "thread",
+    "quantity": "58 Boxes",
+    "personName": "Master",
+    "color": null
+  },
+  {
+    "id": "mp9elh43315ln",
+    "timestamp": "2026-05-03T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "cdSequence",
+    "quantity": "40 Pieces",
+    "personName": "Master",
+    "color": null
+  },
+  {
+    "id": "mp9em0jf758cz",
+    "timestamp": "2026-05-03T12:00:00.000Z",
+    "inOut": "in",
+    "number": null,
+    "itemType": "roleFussing",
+    "quantity": "1 Piece",
+    "personName": "Master",
+    "color": null
+  },
+  {
+    "id": "mp9eml0hgsp98",
+    "timestamp": "2026-05-06T12:00:00.000Z",
+    "inOut": "in",
+    "number": "1111",
+    "itemType": "cone",
+    "quantity": "12 Pieces",
+    "personName": "Master",
+    "color": ""
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-06T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "cone",
+    "quantity": "2 Pieces",
+    "personName": "Unkown",
+    "color": "Anmonium"
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-06T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "colySequence",
+    "quantity": "20 Pieces",
+    "personName": "Unkown",
+    "color": "peach"
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-11T12:00:00.000Z",
+    "inOut": "in",
+    "number": "3000/3071/018/1306",
+    "itemType": "cone",
+    "quantity": "12 Pieces",
+    "personName": "Master",
+    "color": null
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-11T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "bobbin",
+    "quantity": "8 CD",
+    "personName": "Master",
+    "color": "skin"
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-13T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "thread",
+    "quantity": "5 Boxes",
+    "personName": "Butt Sahib",
+    "color": null
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-13T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "cdSequence",
+    "quantity": "40 Pieces",
+    "personName": "Butt Sahib",
+    "color": null
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-13T21:15:00.000Z",
+    "inOut": "in",
+    "number": "1180",
+    "itemType": "thread",
+    "quantity": "108 cones",
+    "personName": "Master Kashif",
+    "color": null
+  },
+  {
+    "id": "mp9c4chdhk8lj",
+    "timestamp": "2026-05-15T12:00:00.000Z",
+    "inOut": "in",
+    "number": "",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Butt Sahab",
+    "color": null
+  },
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1080",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1100",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1073",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1087",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1106",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+    {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1103",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1104",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1085",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1107",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1111",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1108",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1070",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1071",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1072",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1060",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1054",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1055",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1056",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1057",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1098",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1049",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1052",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1040",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1041",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1027",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1031",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1025",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1020",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1021",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1010",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "1018",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0192",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0171",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0184",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0118",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0128",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0138",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0116",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "0044",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "009",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3124",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3052",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3037",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3104",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3047",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3028",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3111",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3133",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3136",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3082",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3089",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3062",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3070",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3071",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3034",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3054",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3060",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3061",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z",
+    "inOut": "in",
+    "number": "3076",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }'
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-17T14:15:21.620Z  ",
+    "inOut": "in",
+    "number": "3065",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  },
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-18T13:15:21.620Z",
+    "inOut": "in",
+    "number": "3010",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  },
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-18T13:15:21.620Z",
+    "inOut": "in",
+    "number": "3389",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  },
+  {
+    "id": "mpc28kgkth1gt",
+    "timestamp": "2026-05-18T13:15:21.620Z",
+    "inOut": "in",
+    "number": "1319",
+    "itemType": "thread",
+    "quantity": "1 Box",
+    "personName": "Master Kashif",
+    "color": null
+  }
+]
