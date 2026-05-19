@@ -504,3 +504,45 @@ input:focus, select:focus, textarea:focus {
     font-size: 0.95rem;
   }
 }
+/* Search group */
+.search-group {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.search-group input {
+  min-width: 220px;
+}
+
+.btn-secondary {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid var(--glass-border);
+  color: var(--text-primary);
+}
+
+.btn-secondary:hover {
+  background: rgba(255,255,255,0.2);
+  transform: translateY(-2px);
+}
+
+.category-download-btn {
+  background: none;
+  border: 1px solid var(--accent-secondary);
+  color: var(--accent-secondary);
+  padding: 6px 12px;
+  border-radius: 30px;
+  font-size: 0.8rem;
+  margin-left: 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.category-download-btn:hover {
+  background: var(--accent-secondary);
+  color: #000;
+  }
