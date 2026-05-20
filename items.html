@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Items Vault | Professional Inventory</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* ===== DESKTOP LOCK ===== */
+    * {
+      box-sizing: border-box;
+    }
+    html, body {
+      min-width: 1280px !important;
+      width: 100%;
+      overflow-x: auto !important;
+      background: var(--bg-gradient);
+    }
+    body {
+      padding: 28px 36px !important;
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+    }
+    .desktop-container {
+      max-width: 1600px;
+      min-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .glass-card {
+      backdrop-filter: blur(18px);
+      border-radius: var(--radius);
+      padding: 28px 32px;
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      box-shadow: var(--shadow-lg);
+    }
+    .data-table {
+      width: 100%;
+      min-width: 1200px;
+      table-layout: auto;
+      white-space: nowrap;
+      border-collapse: collapse;
+    }
+    .data-table th, .data-table td {
+      white-space: nowrap;
+      padding: 14px 16px;
+    }
+    .action-bar {
+      display: flex;
+      gap: 18px;
+      align-items: center;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+    }
+    .search-wrapper {
+      display: flex;
+      gap: 12px;
+      flex: 2;
+      max-width: 550px;
+    }
+    .search-wrapper input {
+      flex: 1;
+      padding: 14px 20px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--glass-border);
+      border-radius: 60px;
+      color: white;
+      font-size: 0.95rem;
+      outline: none;
+    }
+    .search-wrapper input:focus {
+      border-color: var(--accent-primary);
+      box-shadow: 0 0 0 3px rgba(168,85,247,0.2);
+    }
+    .stats-badge {
+      background: rgba(168,85,247,0.2);
+      padding: 8px 18px;
+      border-radius: 40px;
+      font-weight: 600;
+      border-left: 3px solid var(--accent-primary);
+      font-size: 0.9rem;
+    }
+    .btn-outline {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--glass-border);
+      padding: 10px 24px;
+      border-radius: 40px;
+      color: var(--text-primary);
+      font-weight: 500;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+    .btn-outline:hover {
+      background: var(--accent-primary);
+      border-color: var(--accent-primary);
+      color: white;
+    }
+    .desktop-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 28px;
+      flex-wrap: nowrap;
+    }
+    .desktop-header .logo span {
+      font-size: 1.9rem;
+      font-weight: 700;
+    }
+    .table-wrapper {
+      overflow-x: auto;
+      border-radius: 20px;
+      margin-top: 8px;
+    }
+    .loading-placeholder {
+      text-align: center;
+      padding: 50px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+    .toast {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      z-index: 9999;
+    }
+  </style>
+</head>
+<body>
+<div class="desktop-container">
+  <div class="desktop-header">
+    <div class="logo" style="gap: 14px;">
+      <svg width="38" height="38" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 2L30 16L16 30L2 16L16 2Z" fill="url(#logoGrad)" stroke="white" stroke-width="1.5"/>
+        <defs>
+          <linearGradient id="logoGrad" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#a855f7"/>
+            <stop offset="1" stop-color="#22d3ee"/>
+          </linearGradient>
+        </defs>
+      </svg>
+      <span>ITEM INVENTORY</span>
+    </div>
+    <div class="stats-badge" id="totalStats">📦 Loading items...</div>
+  </div>
+
+  <div class="glass-card" style="padding: 20px 28px; margin-bottom: 28px;">
+    <div class="action-bar">
+      <div class="search-wrapper">
+        <input type="text" id="searchItemsInput" placeholder="🔍  Search by Item, Person, Color, Number, Type, Quantity ..." autocomplete="off">
+        <button class="btn" id="clearSearchBtnDesktop" style="padding: 0 26px;">Clear</button>
+      </div>
+      <div style="display: flex; gap: 12px;">
+        <button class="btn-outline" id="refreshItemsBtn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 4v6h-6"/><path d="M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+          Sync
+        </button>
+        <button class="btn" id="exportItemsBtn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Export JSON
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="glass-card" style="padding: 0; overflow: hidden;">
+    <div id="itemsTableContainer" class="table-wrapper">
+      <div class="loading-placeholder">⏳ Loading high‑performance item list ...</div>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script src="items.js"></script>
+</body>
+</html>
