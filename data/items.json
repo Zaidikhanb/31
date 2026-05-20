@@ -1338,5 +1338,18 @@
     "quantity": "1 Box",
     "personName": "Master Kashif",
     "color": null
+  },
+  {
+    "id": "mpdj4ccspop0x",
+    "timestamp": "2026-05-20T03:55:44.140Z",
+    "inOut": "in",
+    "number": "FAKE SILVER / MB ZEBRA",
+    "itemType": "otherItem",
+    "itemName": "Tilla",
+    "quantity": "9 Carten",
+    "size": null,
+    "grade": null,
+    "color": null,
+    "personName": "Master Kashif"
   }
 ]
